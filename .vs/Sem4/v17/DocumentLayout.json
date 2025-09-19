@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\alumnotlsch\\Downloads\\GU\\Sem4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6FDD9961-8023-438D-9C05-96A005015659}|Sem4.csproj|c:\\users\\alumnotlsch\\downloads\\gu\\sem4\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FDD9961-8023-438D-9C05-96A005015659}|Sem4.csproj|solutionrelative:tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FDD9961-8023-438D-9C05-96A005015659}|Sem4.csproj|c:\\users\\alumnotlsch\\downloads\\gu\\sem4\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FDD9961-8023-438D-9C05-96A005015659}|Sem4.csproj|solutionrelative:carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FDD9961-8023-438D-9C05-96A005015659}|Sem4.csproj|c:\\users\\alumnotlsch\\downloads\\gu\\sem4\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FDD9961-8023-438D-9C05-96A005015659}|Sem4.csproj|solutionrelative:items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6FDD9961-8023-438D-9C05-96A005015659}|Sem4.csproj|c:\\users\\alumnotlsch\\downloads\\gu\\sem4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FDD9961-8023-438D-9C05-96A005015659}|Sem4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,17 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Items.cs",
+              "DocumentMoniker": "C:\\Users\\alumnotlsch\\Downloads\\GU\\Sem4\\Items.cs",
+              "RelativeDocumentMoniker": "Items.cs",
+              "ToolTip": "C:\\Users\\alumnotlsch\\Downloads\\GU\\Sem4\\Items.cs",
+              "RelativeToolTip": "Items.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T19:55:45.944Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Carrito.cs",
+              "DocumentMoniker": "C:\\Users\\alumnotlsch\\Downloads\\GU\\Sem4\\Carrito.cs",
+              "RelativeDocumentMoniker": "Carrito.cs",
+              "ToolTip": "C:\\Users\\alumnotlsch\\Downloads\\GU\\Sem4\\Carrito.cs",
+              "RelativeToolTip": "Carrito.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAkwBcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T20:31:48.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Tienda.cs",
+              "DocumentMoniker": "C:\\Users\\alumnotlsch\\Downloads\\GU\\Sem4\\Tienda.cs",
+              "RelativeDocumentMoniker": "Tienda.cs",
+              "ToolTip": "C:\\Users\\alumnotlsch\\Downloads\\GU\\Sem4\\Tienda.cs",
+              "RelativeToolTip": "Tienda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T19:54:36.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\alumnotlsch\\Downloads\\GU\\Sem4\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\alumnotlsch\\Downloads\\GU\\Sem4\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAD2//+nQ5MjwAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-19T18:49:57.741Z",
               "EditorCaption": ""

@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace Sem4
 {
-    internal class Program
+    internal class Tienda
     {
-        static void Main(string[] args)
-        {
-            
-        }
+
     }
 }
